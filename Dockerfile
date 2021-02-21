@@ -6,7 +6,8 @@ WORKDIR /app
 
 ## Step 2: Copy source code to working directory
 
-COPY . app.py /app/
+COPY .  /app/
+
 
 ## Step 3:
 # Install packages from requirements.txt
@@ -14,8 +15,8 @@ COPY . app.py /app/
 
 RUN pip install --no-cache-dir --trusted-host pypi.python.org -r requirements.txt
 
-## Step 4:
-EXPOSE  80
+## Step 4: expose port
+EXPOSE 8080
 
 ## Step 5: Run app.py at container launch
 CMD ["python", "app.py"]

@@ -39,4 +39,4 @@ minikube stop
 https://app.circleci.com/pipelines/github/visheshvashista/UdacityMicroservicesProject/7/workflows/82882f03-d924-4893-8512-58c3c4565dbc
 
 # markdown status 
-https://circleci.com/gh/visheshvashista/UdacityMicroservicesProject.svg?style=svg&circle-token=33998a4727bca4c58f0acc3ee79293cd8ccc0a88
+[![CircleCI](https://circleci.com/gh/visheshvashista/UdacityMicroservicesProject.svg?style=svg&circle-token=33998a4727bca4c58f0acc3ee79293cd8ccc0a88)](https://circleci.com/gh/visheshvashista/UdacityMicroservicesProject.svg?style=svg&circle-token=33998a4727bca4c58f0acc3ee79293cd8ccc0a88)

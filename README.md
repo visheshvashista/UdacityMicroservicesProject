@@ -1,5 +1,6 @@
 # UdacityMicroservicesProject
 Udacity NanoDegree Project 4
+Screenshots for various steps have been added to screenshots directory
 
 # commands
 # set up virtual environment
